@@ -1,0 +1,290 @@
+a {
+  text-decoration: none !important;
+}
+
+a:hover {
+  text-decoration: none !important;
+}
+
+.nft-card {
+  position: relative;
+}
+
+.nft-card.home-nft {
+  margin: 10px;
+}
+
+.countdown-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  padding-left: 15px;
+  margin: 0 auto;
+}
+
+.time-section {
+  padding: 0px 2px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  color: #aabac7 !important;
+}
+
+.time {
+  margin: 0;
+  font-size: 20px !important;
+  font-weight: 800 !important;
+}
+
+.small {
+  font-size: 15px !important;
+}
+
+.nft-card__img {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  padding-top: 75%;
+}
+
+
+.nft-card__img .image-wrapper{
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  height: 100%;
+}
+
+.nft-card__img audio,
+.nft-card__img video,
+.nft-card__img img {
+  width: auto;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 5%;
+}
+
+.nft-card__img_full {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+  width: 100%;
+}
+
+.nft-card__img_full img {
+  height: auto;
+  width: 100%;
+  border-radius: 5%;
+  object-fit: contain;
+  border-radius: 1rem;
+}
+.preview-img img{
+  width: auto;
+  height: 350px;
+  object-fit: cover;
+}
+/** Ribbon **/
+.ribbon {
+  position: absolute;
+  top: 20px;
+  right: -5px;
+  padding: 15px;
+}
+
+.ribbon-content {
+  position: relative;
+  width: 100%;
+  height: 100px;
+  background: #f1f1f1;
+  border: 1px solid #DDD;
+}
+
+.ribbon.base {
+  background: #3498db;
+  color: #fff;
+  border-right: 5px solid #8bc4ea;
+}
+
+.ribbon.light {
+  background: #ecf0f1;
+  color: #2c3e50;
+  border-right: 5px solid #dde4e6;
+}
+
+.ribbon.dark {
+  background: #131313;
+  color: #fff;
+  border-right: 5px solid #464646;
+}
+
+.ribbon.base-alt {
+  background: #9cd70e;
+  color: #fff;
+  border-right: 5px solid #c6f457;
+}
+
+.ribbon.red {
+  background: #e91b23;
+  color: #fff;
+  border-right: 5px solid #f2787d;
+}
+
+.ribbon.orange {
+  background: #ff8a3c;
+  color: #fff;
+  border-right: 5px solid #ffc7a2;
+}
+
+.ribbon.yellow {
+  background: #ffd800;
+  color: #fff;
+  border-right: 5px solid #ffe866;
+}
+
+.ribbon:before,
+.ribbon:after {
+  content: '';
+  position: absolute;
+  left: -9px;
+  border-left: 10px solid transparent;
+}
+
+.ribbon:before {
+  top: 0;
+}
+
+.ribbon:after {
+  bottom: 0;
+}
+
+.ribbon.base:before {
+  border-top: 27px solid #3498db;
+}
+
+.ribbon.base:after {
+  border-bottom: 27px solid #3498db;
+}
+
+.ribbon.light:before {
+  border-top: 27px solid #ecf0f1;
+}
+
+.ribbon.light:after {
+  border-bottom: 27px solid #ecf0f1;
+}
+
+.ribbon.dark:before {
+  border-top: 27px solid #131313;
+}
+
+.ribbon.dark:after {
+  border-bottom: 27px solid #131313;
+}
+
+.ribbon.base-alt:before {
+  border-top: 27px solid #9cd70e;
+}
+
+.ribbon.base-alt:after {
+  border-bottom: 27px solid #9cd70e;
+}
+
+.ribbon.red:before {
+  border-top: 27px solid #e91b23;
+}
+
+.ribbon.red:after {
+  border-bottom: 27px solid #e91b23;
+}
+
+.ribbon.orange:before {
+  border-top: 27px solid #ff8a3c;
+}
+
+.ribbon.orange:after {
+  border-bottom: 27px solid #ff8a3c;
+}
+
+.ribbon.yellow:before {
+  border-top: 27px solid #ffd800;
+}
+
+.ribbon.yellow:after {
+  border-bottom: 27px solid #ffd800;
+}
+
+.ribbon span {
+  display: block;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.dhRnPJ {
+  color: white;
+  background-color: #0f1028 !important;
+  border-color: #020206 !important;
+}
+
+.GFPSK {
+  border-top: none !important;
+}
+
+input[type=file] {
+  width: 100%;
+  border: 1px solid #492684;
+}
+
+.hot-card {
+  overflow: hidden;
+  background-position: center;
+  background-size: contain;
+}
+
+.searchFrm {
+  background: transparent !important;
+  border: 2px solid #291559 !important;
+  padding: 6px 45px 6px 20px !important;
+  border-radius: 10rem !important;
+  width: 100% !important;
+  color: rgba(255, 255, 255, 0.75) !important;
+  margin: 0;
+}
+
+.priceInUsd {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.priceInUsd .priceToken {
+  color: rgba(255, 255, 255, 0.9) !important;
+}
+
+.priceInUsd .priceUsd {
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.4) !important;
+}
+
+.Toastify__toast-container {
+  z-index: 10000;
+}
+
+.collection-btn {
+  border: 2px solid #7f81a2;
+  margin-left: 5px;
+  margin-top: 5px;
+}
+
+.collection-btn.active {
+  border-color: #9441fb;
+}
+
+.collection-btn .collection-sm-image {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+}

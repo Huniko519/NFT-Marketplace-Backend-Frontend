@@ -1,0 +1,10 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 38 34" width="38" height="34">
+	<title>Layer 5</title>
+	<defs>
+		<image  width="38" height="34" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACYAAAAiCAMAAAAEcluKAAAAAXNSR0IB2cksfwAAAelQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////jN65ewAAAKN0Uk5TAAUuY87r+PLegTsKAQ6W8f+IF0LI/e3ht7Cz1OzLTQfp5KBAKjp/1/t0CEPm76I2FOdwPOXuZEzR9CQJuOPCBFT8aXH5UA+xsgP+xhg94PZE9YDSGw3Z95SRewKe2BOtXD4i8B/BZRxbjQtz+iG/nzPVVlPqXaQacn5ad7k4TgxPijIG6FIeLVF5xVfiJb66u7bQ3VhgfNyPSD+jxEmptCCVYsurs6AAAAH+SURBVHichZP5V1JBFMefGaix+M0FKck9l1wr1NJMXBIVQUsNNazMhXBLixbNUpP2FQszLLP+0u6T02PevDmH+8Oc+X7nM9s990oSF0lHko/q9HKkpKYdM/DLsTCazOlg4niGUYRlZtFatiXHeuJkrk1P81N5+QKqgFYKi4pLaJ5xurSsnGTFGZ6qrAKqa2oVXWc+S9w5jjpvB+obVFbjBeBik8pqvgTYkrmttS3A5VbWcdjQ1q55bkcn2q4wussJdPdosCRnL1x9ce32oH9AQ9HvgavMJdf0GBwSYMPX4R2Jy1FgTJBK6YYP2eOKunkLuC2gJGkC8CqiOAdoEGJ3gElFTE0DM0LMz2JGettdIeYA0uPKDARmRZhPhc3NY3xBQOUvwnsvLpeWgfsC7ME8gg8Z/QhwPdZQPS4gt4sxnlC1rvA1bVz1Qv+UTbthDeh8xtXq83rAus46JVYqVftKM+ttEFW1pNpnjzXT5out/1bTjAUIqf6VVyj3kYcGT+Dlwqsp/+s3b9+RCr1Xnf4BCJo/Dkwfnvjp85fw9uHs6zeWWpWpiHzPTpDp5u8BNwOZdnWALhITP3Z9BaF++kx1eGeCPcpQQxsnI4qejUYdm+3uSr8qNVt7RP38pU6spnei+0T9PuBtLjrkRIT7ElBSGVHOukSU9KfX8teUkPoHWIhc66WP8icAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Layer 5" href="#img1" x="0" y="0" />
+</svg>
